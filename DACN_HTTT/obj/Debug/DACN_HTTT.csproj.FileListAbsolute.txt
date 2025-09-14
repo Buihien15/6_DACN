@@ -1,0 +1,15 @@
+D:\DACN_6\DACN_HTTT\DACN_HTTT\bin\Debug\DACN_HTTT.exe.config
+D:\DACN_6\DACN_HTTT\DACN_HTTT\bin\Debug\DACN_HTTT.exe
+D:\DACN_6\DACN_HTTT\DACN_HTTT\bin\Debug\DACN_HTTT.pdb
+D:\DACN_6\DACN_HTTT\DACN_HTTT\bin\Debug\Guna.UI2.dll
+D:\DACN_6\DACN_HTTT\DACN_HTTT\obj\Debug\DACN_HTTT.csproj.AssemblyReference.cache
+D:\DACN_6\DACN_HTTT\DACN_HTTT\obj\Debug\DACN_HTTT.Admin.UC_AddUSer.resources
+D:\DACN_6\DACN_HTTT\DACN_HTTT\obj\Debug\DACN_HTTT.Admin.UC_Dashbord.resources
+D:\DACN_6\DACN_HTTT\DACN_HTTT\obj\Debug\DACN_HTTT.Form1.resources
+D:\DACN_6\DACN_HTTT\DACN_HTTT\obj\Debug\DACN_HTTT.formAdmin.resources
+D:\DACN_6\DACN_HTTT\DACN_HTTT\obj\Debug\DACN_HTTT.Properties.Resources.resources
+D:\DACN_6\DACN_HTTT\DACN_HTTT\obj\Debug\DACN_HTTT.csproj.GenerateResource.cache
+D:\DACN_6\DACN_HTTT\DACN_HTTT\obj\Debug\DACN_HTTT.csproj.CoreCompileInputs.cache
+D:\DACN_6\DACN_HTTT\DACN_HTTT\obj\Debug\DACN_HTTT.csproj.Up2Date
+D:\DACN_6\DACN_HTTT\DACN_HTTT\obj\Debug\DACN_HTTT.exe
+D:\DACN_6\DACN_HTTT\DACN_HTTT\obj\Debug\DACN_HTTT.pdb
