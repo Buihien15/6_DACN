@@ -1,46 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\DACN_6\\DACN_HTTT\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|D:\\DACN_6\\DACN_HTTT\\dacn_httt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|D:\\DACN_6\\DACN_HTTT\\dacn_httt\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|d:\\dacn_6\\dacn_httt\\dacn_httt\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|d:\\dacn_6\\dacn_httt\\dacn_httt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|d:\\dacn_6\\dacn_httt\\dacn_httt\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
-      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|d:\\dacn_6\\dacn_httt\\dacn_httt\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|D:\\DACN_6\\DACN_HTTT\\dacn_httt\\admin\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\admin\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|D:\\DACN_6\\DACN_HTTT\\dacn_httt\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\formadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|D:\\DACN_6\\DACN_HTTT\\dacn_httt\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\dacn_httt\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|D:\\DACN_6\\DACN_HTTT\\dacn_httt\\admin\\uc_dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\dacn_httt\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\formadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\dacn_httt\\admin\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\admin\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\dacn_httt\\admin\\uc_dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\admin\\uc_dashbord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|c:\\users\\admin\\onedrive\\desktop\\project\\6_dacn\\dacn_httt\\formadmin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\formadmin.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\dacn_httt\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\dacn_httt\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|c:\\users\\admin\\onedrive\\desktop\\project\\6_dacn\\dacn_httt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F3AD8330-DAEF-49C1-9FE9-AEB7D2238B0B}|DACN_HTTT\\DACN_HTTT.csproj|solutionrelative:dacn_httt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +46,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "UC_AddUSer.cs [Design]",
-              "DocumentMoniker": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\Admin\\UC_AddUSer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\Admin\\UC_AddUSer.cs",
               "RelativeDocumentMoniker": "DACN_HTTT\\Admin\\UC_AddUSer.cs",
-              "ToolTip": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\Admin\\UC_AddUSer.cs [Design]",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\Admin\\UC_AddUSer.cs [Design]",
               "RelativeToolTip": "DACN_HTTT\\Admin\\UC_AddUSer.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T07:48:43.155Z",
@@ -72,22 +64,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\Form1.cs",
-              "RelativeDocumentMoniker": "DACN_HTTT\\Form1.cs",
-              "ToolTip": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\Form1.cs [Design]",
-              "RelativeToolTip": "DACN_HTTT\\Form1.cs [Design]",
+              "Title": "formAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\formAdmin.cs",
+              "RelativeDocumentMoniker": "DACN_HTTT\\formAdmin.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\formAdmin.cs",
+              "RelativeToolTip": "DACN_HTTT\\formAdmin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T10:29:44.639Z",
+              "WhenOpened": "2025-09-14T09:29:48.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "formAdmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\formAdmin.cs",
+              "RelativeDocumentMoniker": "DACN_HTTT\\formAdmin.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\formAdmin.cs [Design]",
+              "RelativeToolTip": "DACN_HTTT\\formAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T10:08:51.396Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UC_Dashbord.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\Admin\\UC_Dashbord.cs",
+              "RelativeDocumentMoniker": "DACN_HTTT\\Admin\\UC_Dashbord.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\Admin\\UC_Dashbord.cs [Design]",
+              "RelativeToolTip": "DACN_HTTT\\Admin\\UC_Dashbord.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T09:26:19.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "formAdmin.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\formAdmin.resx",
+              "RelativeDocumentMoniker": "DACN_HTTT\\formAdmin.resx",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\formAdmin.resx",
+              "RelativeToolTip": "DACN_HTTT\\formAdmin.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-15T03:10:15.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "DACN_HTTT\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\Properties\\Resources.resx",
+              "RelativeToolTip": "DACN_HTTT\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-14T14:36:42.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Resources.Designer.cs",
-              "DocumentMoniker": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\Properties\\Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\Properties\\Resources.Designer.cs",
               "RelativeDocumentMoniker": "DACN_HTTT\\Properties\\Resources.Designer.cs",
-              "ToolTip": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\Properties\\Resources.Designer.cs",
               "RelativeToolTip": "DACN_HTTT\\Properties\\Resources.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,90 +137,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "DACN_HTTT\\Properties\\Resources.resx",
-              "ToolTip": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\Properties\\Resources.resx",
-              "RelativeToolTip": "DACN_HTTT\\Properties\\Resources.resx",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-09-14T14:36:42.562Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "App.config",
-              "DocumentMoniker": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\App.config",
-              "RelativeDocumentMoniker": "DACN_HTTT\\App.config",
-              "ToolTip": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\App.config",
-              "RelativeToolTip": "DACN_HTTT\\App.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-09-14T13:44:04.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Resources.resx",
-              "DocumentMoniker": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\Properties\\Resources.resx",
-              "RelativeDocumentMoniker": "DACN_HTTT\\Properties\\Resources.resx",
-              "ToolTip": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\Properties\\Resources.resx",
-              "RelativeToolTip": "DACN_HTTT\\Properties\\Resources.resx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAawIQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-09-14T11:38:20.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "formAdmin.cs [Design]",
-              "DocumentMoniker": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\formAdmin.cs",
-              "RelativeDocumentMoniker": "DACN_HTTT\\formAdmin.cs",
-              "ToolTip": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\formAdmin.cs [Design]",
-              "RelativeToolTip": "DACN_HTTT\\formAdmin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T10:08:51.396Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "formAdmin.cs",
-              "DocumentMoniker": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\formAdmin.cs",
-              "RelativeDocumentMoniker": "DACN_HTTT\\formAdmin.cs",
-              "ToolTip": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\formAdmin.cs",
-              "RelativeToolTip": "DACN_HTTT\\formAdmin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T09:29:48.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "formAdmin.Designer.cs",
-              "DocumentMoniker": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\formAdmin.Designer.cs",
-              "RelativeDocumentMoniker": "DACN_HTTT\\formAdmin.Designer.cs",
-              "ToolTip": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\formAdmin.Designer.cs",
-              "RelativeToolTip": "DACN_HTTT\\formAdmin.Designer.cs",
-              "ViewState": "AgIAAOEAAAAAAAAAAAAAAPMAAAABAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\Form1.cs",
+              "RelativeDocumentMoniker": "DACN_HTTT\\Form1.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\project\\6_DACN\\DACN_HTTT\\Form1.cs [Design]",
+              "RelativeToolTip": "DACN_HTTT\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T09:30:20.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UC_Dashbord.cs [Design]",
-              "DocumentMoniker": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\Admin\\UC_Dashbord.cs",
-              "RelativeDocumentMoniker": "DACN_HTTT\\Admin\\UC_Dashbord.cs",
-              "ToolTip": "D:\\DACN_6\\DACN_HTTT\\DACN_HTTT\\Admin\\UC_Dashbord.cs [Design]",
-              "RelativeToolTip": "DACN_HTTT\\Admin\\UC_Dashbord.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T09:26:19.015Z"
+              "WhenOpened": "2025-09-14T10:29:44.639Z",
+              "EditorCaption": " [Design]"
             }
           ]
         },

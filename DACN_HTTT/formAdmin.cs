@@ -19,17 +19,16 @@ namespace DACN_HTTT
 
         private void btnLogout_Click(object sender, EventArgs e)
         {
-            Form1 f1=new Form1();
+            Form1 f1 = new Form1();
             f1.Show();
             this.Hide();
-    
         }
 
         private void formAdmin_Load(object sender, EventArgs e)
         {
-           uC_Dashbord1.Visible = false;
+            uC_Dashbord1.Visible=false;
+            uC_AddUSer1.Visible=false;
             btnDoashbord.PerformClick();
-        
         }
 
         private void btnDoashbord_Click(object sender, EventArgs e)
@@ -37,6 +36,11 @@ namespace DACN_HTTT
             uC_Dashbord1.Visible=true;
             uC_Dashbord1.BringToFront();
         }
-      
+
+        private void btnAddUser_Click(object sender, EventArgs e)
+        {
+            uC_AddUSer1.Visible = true;
+            uC_AddUSer1.BringToFront();
+        }
     }
 }
