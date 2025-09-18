@@ -58,11 +58,23 @@
     <Compile Include="Admin\UC_AddUSer.Designer.cs">
       <DependentUpon>UC_AddUSer.cs</DependentUpon>
     </Compile>
+    <Compile Include="Admin\UC_BaoCao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\UC_BaoCao.Designer.cs">
+      <DependentUpon>UC_BaoCao.cs</DependentUpon>
+    </Compile>
     <Compile Include="Admin\UC_Dashbord.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="Admin\UC_Dashbord.Designer.cs">
       <DependentUpon>UC_Dashbord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\UC_QLThuoc.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin\UC_QLThuoc.Designer.cs">
+      <DependentUpon>UC_QLThuoc.cs</DependentUpon>
     </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -78,11 +90,20 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Admin\UC_AddUSer.dje.resx">
+      <DependentUpon>UC_AddUSer.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Admin\UC_AddUSer.resx">
       <DependentUpon>UC_AddUSer.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UC_BaoCao.resx">
+      <DependentUpon>UC_BaoCao.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Admin\UC_Dashbord.resx">
       <DependentUpon>UC_Dashbord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\UC_QLThuoc.resx">
+      <DependentUpon>UC_QLThuoc.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>

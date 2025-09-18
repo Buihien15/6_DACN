@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace DACN_HTTT.Admin
 {
-    public partial class UC_AddUSer : UserControl
+    public partial class UC_QLThuoc : UserControl
     {
-        public UC_AddUSer()
+        public UC_QLThuoc()
         {
             InitializeComponent();
-        }
-
-        private void UC_AddUSer_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

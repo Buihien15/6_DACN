@@ -34,17 +34,21 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.lblUserName = new System.Windows.Forms.Label();
             this.btnLogout = new Guna.UI2.WinForms.Guna2Button();
-            this.btnProfile = new Guna.UI2.WinForms.Guna2Button();
-            this.btnViewuser = new Guna.UI2.WinForms.Guna2Button();
+            this.btnBaoCao = new Guna.UI2.WinForms.Guna2Button();
+            this.btnQuanLyThuoc = new Guna.UI2.WinForms.Guna2Button();
             this.btnAddUser = new Guna.UI2.WinForms.Guna2Button();
             this.btnDoashbord = new Guna.UI2.WinForms.Guna2Button();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.uC_Dashbord1 = new DACN_HTTT.Admin.UC_Dashbord();
             this.guna2Elipse2 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
             this.guna2Elipse3 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
+            this.guna2Elipse4 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
+            this.guna2Elipse5 = new Guna.UI2.WinForms.Guna2Elipse(this.components);
+            this.uC_BaoCao1 = new DACN_HTTT.Admin.UC_BaoCao();
+            this.uC_QLThuoc1 = new DACN_HTTT.Admin.UC_QLThuoc();
             this.uC_AddUSer1 = new DACN_HTTT.Admin.UC_AddUSer();
+            this.uC_Dashbord1 = new DACN_HTTT.Admin.UC_Dashbord();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
@@ -55,8 +59,8 @@
             this.panel1.BackColor = System.Drawing.Color.Navy;
             this.panel1.Controls.Add(this.lblUserName);
             this.panel1.Controls.Add(this.btnLogout);
-            this.panel1.Controls.Add(this.btnProfile);
-            this.panel1.Controls.Add(this.btnViewuser);
+            this.panel1.Controls.Add(this.btnBaoCao);
+            this.panel1.Controls.Add(this.btnQuanLyThuoc);
             this.panel1.Controls.Add(this.btnAddUser);
             this.panel1.Controls.Add(this.btnDoashbord);
             this.panel1.Controls.Add(this.label1);
@@ -100,45 +104,47 @@
             this.btnLogout.Text = "Đăng Xuất ";
             this.btnLogout.Click += new System.EventHandler(this.btnLogout_Click);
             // 
-            // btnProfile
+            // btnBaoCao
             // 
-            this.btnProfile.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnProfile.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnProfile.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnProfile.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnProfile.FillColor = System.Drawing.Color.Navy;
-            this.btnProfile.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnProfile.ForeColor = System.Drawing.Color.White;
-            this.btnProfile.HoverState.FillColor = System.Drawing.Color.White;
-            this.btnProfile.HoverState.ForeColor = System.Drawing.Color.Black;
-            this.btnProfile.Image = ((System.Drawing.Image)(resources.GetObject("btnProfile.Image")));
-            this.btnProfile.ImageSize = new System.Drawing.Size(30, 30);
-            this.btnProfile.Location = new System.Drawing.Point(0, 992);
-            this.btnProfile.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btnProfile.Name = "btnProfile";
-            this.btnProfile.Size = new System.Drawing.Size(384, 112);
-            this.btnProfile.TabIndex = 5;
-            this.btnProfile.Text = "Thông Tin Người Dùng";
+            this.btnBaoCao.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnBaoCao.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnBaoCao.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnBaoCao.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnBaoCao.FillColor = System.Drawing.Color.Navy;
+            this.btnBaoCao.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnBaoCao.ForeColor = System.Drawing.Color.White;
+            this.btnBaoCao.HoverState.FillColor = System.Drawing.Color.White;
+            this.btnBaoCao.HoverState.ForeColor = System.Drawing.Color.Black;
+            this.btnBaoCao.Image = ((System.Drawing.Image)(resources.GetObject("btnBaoCao.Image")));
+            this.btnBaoCao.ImageSize = new System.Drawing.Size(30, 30);
+            this.btnBaoCao.Location = new System.Drawing.Point(0, 992);
+            this.btnBaoCao.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnBaoCao.Name = "btnBaoCao";
+            this.btnBaoCao.Size = new System.Drawing.Size(384, 112);
+            this.btnBaoCao.TabIndex = 5;
+            this.btnBaoCao.Text = "Báo Cáo Tồn Kho";
+            this.btnBaoCao.Click += new System.EventHandler(this.btnBaoCao_Click);
             // 
-            // btnViewuser
+            // btnQuanLyThuoc
             // 
-            this.btnViewuser.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.btnViewuser.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.btnViewuser.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.btnViewuser.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.btnViewuser.FillColor = System.Drawing.Color.Navy;
-            this.btnViewuser.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnViewuser.ForeColor = System.Drawing.Color.White;
-            this.btnViewuser.HoverState.FillColor = System.Drawing.Color.White;
-            this.btnViewuser.HoverState.ForeColor = System.Drawing.Color.Black;
-            this.btnViewuser.Image = ((System.Drawing.Image)(resources.GetObject("btnViewuser.Image")));
-            this.btnViewuser.ImageSize = new System.Drawing.Size(30, 30);
-            this.btnViewuser.Location = new System.Drawing.Point(0, 872);
-            this.btnViewuser.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.btnViewuser.Name = "btnViewuser";
-            this.btnViewuser.Size = new System.Drawing.Size(384, 112);
-            this.btnViewuser.TabIndex = 4;
-            this.btnViewuser.Text = "Danh Sách Người Dùng";
+            this.btnQuanLyThuoc.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnQuanLyThuoc.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.btnQuanLyThuoc.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.btnQuanLyThuoc.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.btnQuanLyThuoc.FillColor = System.Drawing.Color.Navy;
+            this.btnQuanLyThuoc.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnQuanLyThuoc.ForeColor = System.Drawing.Color.White;
+            this.btnQuanLyThuoc.HoverState.FillColor = System.Drawing.Color.White;
+            this.btnQuanLyThuoc.HoverState.ForeColor = System.Drawing.Color.Black;
+            this.btnQuanLyThuoc.Image = ((System.Drawing.Image)(resources.GetObject("btnQuanLyThuoc.Image")));
+            this.btnQuanLyThuoc.ImageSize = new System.Drawing.Size(30, 30);
+            this.btnQuanLyThuoc.Location = new System.Drawing.Point(0, 872);
+            this.btnQuanLyThuoc.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnQuanLyThuoc.Name = "btnQuanLyThuoc";
+            this.btnQuanLyThuoc.Size = new System.Drawing.Size(384, 112);
+            this.btnQuanLyThuoc.TabIndex = 4;
+            this.btnQuanLyThuoc.Text = "Quản Lý Thuốc";
+            this.btnQuanLyThuoc.Click += new System.EventHandler(this.btnQuanLyThuoc_Click);
             // 
             // btnAddUser
             // 
@@ -158,7 +164,7 @@
             this.btnAddUser.Name = "btnAddUser";
             this.btnAddUser.Size = new System.Drawing.Size(384, 112);
             this.btnAddUser.TabIndex = 3;
-            this.btnAddUser.Text = "Thêm Người Dùng ";
+            this.btnAddUser.Text = "Quản Lý Người Dùng";
             this.btnAddUser.Click += new System.EventHandler(this.btnAddUser_Click);
             // 
             // btnDoashbord
@@ -207,21 +213,14 @@
             // 
             // panel2
             // 
+            this.panel2.Controls.Add(this.uC_BaoCao1);
+            this.panel2.Controls.Add(this.uC_QLThuoc1);
             this.panel2.Controls.Add(this.uC_AddUSer1);
             this.panel2.Controls.Add(this.uC_Dashbord1);
             this.panel2.Location = new System.Drawing.Point(384, 0);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(2198, 1624);
             this.panel2.TabIndex = 9;
-            // 
-            // uC_Dashbord1
-            // 
-            this.uC_Dashbord1.BackColor = System.Drawing.Color.White;
-            this.uC_Dashbord1.Location = new System.Drawing.Point(0, 0);
-            this.uC_Dashbord1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.uC_Dashbord1.Name = "uC_Dashbord1";
-            this.uC_Dashbord1.Size = new System.Drawing.Size(2500, 1695);
-            this.uC_Dashbord1.TabIndex = 0;
             // 
             // guna2Elipse2
             // 
@@ -231,13 +230,52 @@
             // 
             this.guna2Elipse3.TargetControl = this.panel2;
             // 
+            // guna2Elipse4
+            // 
+            this.guna2Elipse4.TargetControl = this.panel2;
+            // 
+            // guna2Elipse5
+            // 
+            this.guna2Elipse5.TargetControl = this.panel2;
+            // 
+            // uC_BaoCao1
+            // 
+            this.uC_BaoCao1.BackColor = System.Drawing.Color.White;
+            this.uC_BaoCao1.Location = new System.Drawing.Point(0, 0);
+            this.uC_BaoCao1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.uC_BaoCao1.Name = "uC_BaoCao1";
+            this.uC_BaoCao1.Size = new System.Drawing.Size(2500, 1695);
+            this.uC_BaoCao1.TabIndex = 4;
+            // 
+            // uC_QLThuoc1
+            // 
+            this.uC_QLThuoc1.BackColor = System.Drawing.Color.White;
+            this.uC_QLThuoc1.Location = new System.Drawing.Point(0, 0);
+            this.uC_QLThuoc1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.uC_QLThuoc1.Name = "uC_QLThuoc1";
+            this.uC_QLThuoc1.Size = new System.Drawing.Size(2500, 1695);
+            this.uC_QLThuoc1.TabIndex = 2;
+            // 
             // uC_AddUSer1
             // 
-            this.uC_AddUSer1.Location = new System.Drawing.Point(3, 4);
+            this.uC_AddUSer1.BackColor = System.Drawing.Color.White;
+            this.uC_AddUSer1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.uC_AddUSer1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F);
+            this.uC_AddUSer1.Location = new System.Drawing.Point(0, 0);
             this.uC_AddUSer1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.uC_AddUSer1.Name = "uC_AddUSer1";
-            this.uC_AddUSer1.Size = new System.Drawing.Size(2709, 1772);
+            this.uC_AddUSer1.Size = new System.Drawing.Size(2198, 1624);
             this.uC_AddUSer1.TabIndex = 1;
+            // 
+            // uC_Dashbord1
+            // 
+            this.uC_Dashbord1.BackColor = System.Drawing.Color.White;
+            this.uC_Dashbord1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.uC_Dashbord1.Location = new System.Drawing.Point(0, 0);
+            this.uC_Dashbord1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.uC_Dashbord1.Name = "uC_Dashbord1";
+            this.uC_Dashbord1.Size = new System.Drawing.Size(2198, 1624);
+            this.uC_Dashbord1.TabIndex = 0;
             // 
             // formAdmin
             // 
@@ -267,8 +305,8 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label lblUserName;
         private Guna.UI2.WinForms.Guna2Button btnLogout;
-        private Guna.UI2.WinForms.Guna2Button btnProfile;
-        private Guna.UI2.WinForms.Guna2Button btnViewuser;
+        private Guna.UI2.WinForms.Guna2Button btnBaoCao;
+        private Guna.UI2.WinForms.Guna2Button btnQuanLyThuoc;
         private Guna.UI2.WinForms.Guna2Button btnAddUser;
         private Guna.UI2.WinForms.Guna2Button btnDoashbord;
         private System.Windows.Forms.Label label1;
@@ -277,6 +315,10 @@
         private Admin.UC_Dashbord uC_Dashbord1;
         private Guna.UI2.WinForms.Guna2Elipse guna2Elipse2;
         private Guna.UI2.WinForms.Guna2Elipse guna2Elipse3;
+        private Admin.UC_BaoCao uC_BaoCao1;
+        private Admin.UC_QLThuoc uC_QLThuoc1;
         private Admin.UC_AddUSer uC_AddUSer1;
+        private Guna.UI2.WinForms.Guna2Elipse guna2Elipse4;
+        private Guna.UI2.WinForms.Guna2Elipse guna2Elipse5;
     }
 }

@@ -28,6 +28,8 @@ namespace DACN_HTTT
         {
             uC_Dashbord1.Visible=false;
             uC_AddUSer1.Visible=false;
+            uC_BaoCao1.Visible=false;
+            uC_QLThuoc1.Visible=false;
             btnDoashbord.PerformClick();
         }
 
@@ -42,5 +44,18 @@ namespace DACN_HTTT
             uC_AddUSer1.Visible = true;
             uC_AddUSer1.BringToFront();
         }
+
+        private void btnBaoCao_Click(object sender, EventArgs e)
+        {
+            uC_BaoCao1.Visible=true;
+            uC_BaoCao1.BringToFront();
+        }
+
+        private void btnQuanLyThuoc_Click(object sender, EventArgs e)
+        {
+            uC_QLThuoc1.Visible=true;
+            uC_QLThuoc1.BringToFront();
+        }
+
     }
 }
